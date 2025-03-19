@@ -1,2 +1,16 @@
-# chhattisgarh-vivha-aap
-Chhattisgarh Vivah is a Flutter-based mobile application designed to facilitate matrimonial services for the people of Chhattisgarh. The app aims to connect individuals seeking life partners while promoting the rich culture and traditions of Chhattisgarh.
+# lms
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
