@@ -34,10 +34,10 @@ class _StartState extends State<Start> {
               height: double.infinity,
               width: double.infinity,
             ),
-            Positioned(
-              top: 315,
-              left: 100,
-              child: Image.asset('assets/icons/vivha.png'),
+            Center(
+              child: Positioned(
+                child: Image.asset('assets/icons/vivha.png'),
+              ),
             ),
           ],
         ),
